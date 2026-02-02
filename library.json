@@ -6,13 +6,18 @@
   "repository":
   {
     "type": "git",
-    "url": "https://github.com/Bodmer/TFT_eSPI"
+    "url": "https://github.com/Giddy-Up224/TFT_eSPI"
   },
   "authors":
   [
     {
         "name": "Bodmer",
         "email": "bodmer@anola.net",
+        "maintainer": false
+    },
+    {
+        "name": "Giddy-Up224",
+        "email": "128929355+Giddy-Up224@users.noreply.github.com",
         "maintainer": true
     }
   ],
